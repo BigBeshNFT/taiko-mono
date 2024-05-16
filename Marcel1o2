@@ -1,0 +1,5 @@
+git checkout -b my-feature-branch
+git add .
+git commit -m "Your commit message"
+git push origin my-feature-branch
+
